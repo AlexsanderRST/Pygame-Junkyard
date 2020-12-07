@@ -6,4 +6,8 @@ Warning: You'll need python installed to run the games, double clicking Main.py 
 
 ### The Space is Out There (TSOT)
 In this game, the player would control a robot that falls into a random generated planet. The objective is: refuel the landing module using the resources available to get back to the mother ship.
-What have been done: You can walk with your robot using A and D. Also brake some dirt blocks using LMB.
+What have been done: You can walk with your robot using A and D. Also brake some dirt blocks using LMB. Use ESC to exit game.
+
+![TSOT print](TSOT_print1.png)
+
+
