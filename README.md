@@ -6,15 +6,6 @@ Warning: You'll need python 3 installed to run the games, double clicking Main.p
 
 **There's no copyright in these ideas** and you can use them (including the files) to create your own game. Just don't forget to contact me once you done and I'll be glad to play it.
 
-
-### [The Space is Out There (TSOT)](TSOT.zip)
-In this game, the player would control a robot that falls into a random generated planet. The objective is: refuel the landing module using the resources available to get back to the mother ship.
-
-What have been done: You can walk with your robot using A and D keys. Also brake some dirt blocks using LMB. Use ESC key to exit game.
-
-![TSOT print](TSOT_print1.png)
-
-
 ### [Chubby Dragon Chase (CDC)](CDC.zip)
 In this game, the player would control a man who has the wife kidnapped by a chubby dragon. So he goes around a dangerous world (where even rocks are enemies) colecting resources and going village to village to ask: 'did you saw the chubby dragon?'. The idea was: every resource comes from enemies. So if want wood, you have to battle against a tree.
 
@@ -37,3 +28,15 @@ In this game, the player would control a boy who lives on the streets of a city 
 What have been done: You can walk to left and right using A and D keys. Also exit with ESC key.
 
 ![rl prtsc1](rl_prtsc1.png)
+
+### [The Space is Out There (TSOT)](TSOT.zip)
+In this game, the player would control a robot that falls into a random generated planet. The objective is: refuel the landing module using the resources available to get back to the mother ship.
+
+What have been done: You can walk with your robot using A and D keys. Also brake some dirt blocks using LMB. Use ESC key to exit game.
+
+![TSOT print](TSOT_print1.png)
+
+### The Table Guy
+This is not a game at all, just a guy sitting on a table and you can exit with ESC key. The funny part of it is that a made a documentation of this game with a lot of details how it would work. The ideia was: A political RPG where the protagonist starts in your house's kitchen and raises in the political career using fake news, contacts, dirty bribe; until he become the leader of world. You would also make partnership with political groups like progressists, conservatives, etc.
+
+![The Table Guy prtsc_1](tgot_prtsc1.png)
