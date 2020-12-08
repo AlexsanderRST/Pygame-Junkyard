@@ -36,7 +36,7 @@ What have been done: You can walk with your robot using A and D keys. Also brake
 
 ![TSOT print](TSOT_print1.png)
 
-### The Table Guy
+### [The Table Guy](thetableguy.zip)
 This is not a game at all, just a guy sitting on a table and you can exit with ESC key. The funny part of it is that a made a documentation of this game with a lot of details how it would work. The ideia was: A political RPG where the protagonist starts in your house's kitchen and raises in the political career using fake news, contacts, dirty bribe; until he become the leader of world. You would also make partnership with political groups like progressists, conservatives, etc.
 
 ![The Table Guy prtsc_1](tgot_prtsc1.png)
