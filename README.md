@@ -13,17 +13,11 @@ What have been done: You can walk with your robot using A and D keys. Also brake
 ![TSOT print](TSOT_print1.png)
 
 
-### Chubby Dragon Chase
+### [Chubby Dragon Chase](CDC.zip)
 In this game, the player would control a man who has the wife kidnapped by a chubby dragon. So he goes around a dangerous world (where even rocks are enemies) colecting resources and going village to village to ask: 'did you saw the chubby dragon?'. The idea was: every resource comes from enemies. So if want wood, you have to battle against a tree.
 
-A lot of versions. Today I do some objectives to launch a new version of a game (like add some new features, correct bugs). In this project, every day I created a new version. I'll try to upload each version, pointing the differences between them.
+A lot of versions. Today I do some objectives to launch a new version of a game (like add some new features, correct bugs). In this project, every day I created a new version. I'll try to upload the latest one.
 
-##### Oldest one (0.0d120320)
-This is the oldest version I recovered.
+What have been done: There's a main menu with one menu. When game starts, you're on the map. You can navigate with the W, A, S, D keys. After moving for some direction, a battle against a rock will start. You can defeat it. After that, there's no more content.
 
-![CDC print 1](cdc_print1.png)
-
-##### Action bar? Changes on field (0.0d180320)
-The bar above is probably the action bar. Each character would have 2 actions per turn.
-
-![CDC print 2](cdc_print2.png)
+![CDC print1](cdc_print3.png)
