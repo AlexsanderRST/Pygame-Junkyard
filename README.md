@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=L53Z8HUNP7X66)
+
 # My Old Pygames
 
 The ideia of this repository is upload games that I created using the Pygame Library, but for some reason I abondonded.
