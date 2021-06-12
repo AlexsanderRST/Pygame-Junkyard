@@ -4,7 +4,7 @@ Pygame projects that were once projects, but are now programmed pieces of garbag
 
 ⚠️: You must have python 3 and pygame 2 installed to run the games. To run them, double-click on *Main.py* or *main.py*.
 
-### Chubby Dragon Chase ⭐⭐⭐⭐⭐
+### Chubby Dragon Chase ⭐⭐⭐
 In this game, the player would control a man who has the wife kidnapped by a chubby dragon. So he goes around a dangerous world (where even rocks are enemies) colecting resources and going village to village to ask: 'did you saw the chubby dragon?'. The idea was: every resource comes from enemies. So if want wood, you have to battle against a tree.
 
 ![CDC print1](https://i.ibb.co/R7WfdXN/cdc-print3.png)
