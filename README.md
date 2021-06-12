@@ -11,7 +11,7 @@ In this game, the player would control a man who has the wife kidnapped by a chu
 
 ![CDC print1](https://i.ibb.co/R7WfdXN/cdc-print3.png)
 
-### [Project Particles](project_particles.zip)
+### Project Particles 🔨
 In this game, the player would control a guy who runs a particle store in space. The ideia was: A client shows up and makes a wish. For example, 2 red and 1 yellow particles. You got 2 reds but not a yellow one, so you have have to combine primary colors (R, G, B) particles to create a new with the color needed.
 
 ![PPar prtsc1](https://i.ibb.co/MsF7X37/ppar-prtsc1.png)
