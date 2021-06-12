@@ -31,3 +31,8 @@ This is not a game at all, just a guy sitting on a table and you can exit with E
 In this game, the player would control a guy who runs a particle store in space. The ideia was: A client shows up and makes a wish. For example, 2 red and 1 yellow particles. You got 2 reds but not a yellow one, so you have have to combine primary colors (R, G, B) particles to create a new with the color needed.
 
 ![PPar prtsc1](https://i.ibb.co/MsF7X37/ppar-prtsc1.png)
+
+## Project Particles 🔨
+A high-speed interstellar journey.
+
+![](https://i.ibb.co/znYL46c/star-travel-print.png)
